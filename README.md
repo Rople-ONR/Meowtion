@@ -28,6 +28,10 @@ python main.py
 
 2. 'q' 키를 눌러 종료
 
+Tested on Python 3.9+
+
+
+
 
 
 
