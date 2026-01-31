@@ -18,10 +18,11 @@ pip install -r requirements.txt
 
 1. 프로그램 실행:
 ```bash
-python cat_emotion.py
+python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
