@@ -21,6 +21,7 @@ pip install -r requirements.txt
 python cat_emotion.py
 ```
 
-3. 'q' 키를 눌러 종료
+2. 'q' 키를 눌러 종료
+
 
 
