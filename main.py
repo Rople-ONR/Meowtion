@@ -104,7 +104,7 @@ class CatEmotionDisplay:
             cat_resized = cv2.resize(cat_display, (640, 480))
             combined = np.hstack([frame_resized, cat_resized])
             
-            cv2.imshow('Cat Emotion Display', combined)
+            cv2.imshow('Meowtion Camera', combined)
             
             frame_count += 1
             
@@ -117,3 +117,4 @@ class CatEmotionDisplay:
 if __name__ == "__main__":
     app = CatEmotionDisplay()
     app.run()
+
