@@ -11,7 +11,7 @@
 1.레포 복제 (또는 ZIP 다운로드):
 ```bash
 git clone https://github.com/Rople-ONR/Meowtion.git
-cd meowtion
+cd Meowtion
 ```
 
 2.필요한 라이브러리 설치:
@@ -29,6 +29,7 @@ python main.py
 2. 'q' 키를 눌러 종료
 
 Tested on Python 3.9+
+
 
 
 
