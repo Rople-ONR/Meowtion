@@ -8,7 +8,7 @@
 
 ## 설치 방법
 
-1. 필요한 라이브러리 설치:
+필요한 라이브러리 설치:
 ```bash
 pip install -r requirements.txt
 ```
@@ -21,6 +21,7 @@ python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
