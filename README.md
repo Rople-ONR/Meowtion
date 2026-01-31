@@ -13,6 +13,11 @@
 ```bash
 pip install -r requirements.txt
 ```
+또는 레포 복제:
+```bash
+git clone https://github.com/your-username/meowtion.git
+cd meowtion
+```
 
 ## 사용 방법
 
@@ -22,6 +27,7 @@ python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
