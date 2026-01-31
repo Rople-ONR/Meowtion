@@ -1,32 +1,41 @@
 # Meowtion
 
-얼굴 표정을 실시간으로 감지해 고양이 이미지로 표시하는 프로그램
-<br>웹캠필수</br>
+A program that detects facial expressions in real time and displays matching cat images.
+<br>**Webcam required**</br>
 
-## 기능
-- 7가지 표정 인식 (happy, sad, angry, surprise, neutral, fear, disgust)
-- 표정에 맞는 고양이 이미지 표시 (disgust는 인식 잘 안될수도 있음)
+## Features
+- Recognizes **7 facial expressions**:
+  - happy
+  - sad
+  - angry
+  - surprise
+  - neutral
+  - fear
+  - disgust
+- Displays a **cat image corresponding to the detected expression**
+  - Note: *disgust* may not be recognized reliably
 
-## 설치 방법
-1.레포 복제 (또는 ZIP 다운로드):
+## Installation
+1. 1. Clone the repository (or download as ZIP
 ```bash
 git clone https://github.com/Rople-ONR/Meowtion.git
 cd Meowtion
 ```
 
-2.필요한 라이브러리 설치:
+2. Install required lib
 ```bash
 pip install -r requirements.txt
 ```
 
-## 사용 방법
+## Usage
 
-1. 프로그램 실행:
+1. Run the program:
 ```bash
 python main.py
 ```
 
-2. 'q' 키를 눌러 종료
+2. Quit
+Press 'q' to exit the program.
 
 Tested on Python 3.9+
 
