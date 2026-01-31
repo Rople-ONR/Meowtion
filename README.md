@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 또는 레포 복제:
 ```bash
-git clone https://github.com/your-username/meowtion.git
+git clone https://github.com/Rople-ONR/meowtion.git
 cd meowtion
 ```
 
@@ -27,6 +27,7 @@ python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
