@@ -1,7 +1,7 @@
 # Meowtion
 
 얼굴 표정을 실시간으로 감지해 고양이 이미지로 표시하는 프로그램
-웹캠필수
+<br>웹캠필수</br>
 
 ## 기능
 - 7가지 표정 인식 (happy, sad, angry, surprise, neutral, fear, disgust)
@@ -22,6 +22,7 @@ python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
