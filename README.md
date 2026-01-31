@@ -8,15 +8,15 @@
 - 표정에 맞는 고양이 이미지 표시 (disgust는 인식 잘 안될수도 있음)
 
 ## 설치 방법
-
-필요한 라이브러리 설치:
-```bash
-pip install -r requirements.txt
-```
-또는 레포 복제:
+1.레포 복제 (또는 ZIP 다운로드):
 ```bash
 git clone https://github.com/Rople-ONR/Meowtion.git
 cd meowtion
+```
+
+2.필요한 라이브러리 설치:
+```bash
+pip install -r requirements.txt
 ```
 
 ## 사용 방법
@@ -29,6 +29,7 @@ python main.py
 2. 'q' 키를 눌러 종료
 
 Tested on Python 3.9+
+
 
 
 
