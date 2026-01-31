@@ -5,7 +5,7 @@
 
 ## 기능
 - 7가지 표정 인식 (happy, sad, angry, surprise, neutral, fear, disgust)
-- 표정에 맞는 고양이 이미지 표시 (disguest는 인식 잘 안될수도 있음)
+- 표정에 맞는 고양이 이미지 표시 (disgust는 인식 잘 안될수도 있음)
 
 ## 설치 방법
 
@@ -22,6 +22,7 @@ python main.py
 ```
 
 2. 'q' 키를 눌러 종료
+
 
 
 
