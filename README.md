@@ -34,8 +34,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. Quit
-Press 'q' to exit the program.
+2. Quit:
+<br>Press 'q' to exit the program.</br>
 
 Tested on Python 3.9+
 
